@@ -1,5 +1,5 @@
 <h2> Hi, I'm Dũng! <img src="https://media.giphy.com/media/Sv9nS8PtXWyshopzAz/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/WtV5Havl0RfCRv5WTh/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/WtV5Havl0RfCRv5WTh/giphy.gif" width="200">
 
 <p><em>Student at <a href="https://utc.edu.vn/"> University of Transport and Communications </a><img src="https://media.giphy.com/media/fRglV4j24dL2UcHM0e/giphy.gif" width="30">
 
